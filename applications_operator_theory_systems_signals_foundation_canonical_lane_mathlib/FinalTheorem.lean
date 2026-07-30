@@ -1,0 +1,9 @@
+import applications_operator_theory_systems_signals_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace applications_operator_theory_systems_signals_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end applications_operator_theory_systems_signals_foundation_canonical_lane_mathlib
+end HautevilleHouse
